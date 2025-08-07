@@ -100,7 +100,7 @@
                 <img src="https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-13-pro-max-family-hero?wid=470&hei=556&fmt=png-alpha&.v=1631652955000" alt="iPhone 13 Pro Max">
                 <h2>iPhone 13 Pro Max</h2>
                 <div class="price">Цена: $1099</div>
-                <a class="order-button" href="https://t.me/your_bot?start=iphone13promax" target="_blank">Заказать в Telegram</a>
+                <a class="order-button" href="https://t.me/malecat1?start=iphone13promax" target="_blank">Заказать в Telegram</a>
             </div>
 
         </div>
