@@ -86,14 +86,14 @@
                 <img src="https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone13-select-2021?wid=470&hei=556&fmt=png-alpha&.v=1629842707000" alt="iPhone 13">
                 <h2>iPhone 13</h2>
                 <div class="price">Цена: $699</div>
-                <a class="order-button" href="https://t.me/your_bot?start=iphone13" target="_blank">Заказать в Telegram</a>
+                <a class="order-button" href="https://t.me/malecat1?start=iphone13" target="_blank">Заказать в Telegram</a>
             </div>
 
             <div class="product">
                 <img src="https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-13-pro-family-hero?wid=470&hei=556&fmt=png-alpha&.v=1631652955000" alt="iPhone 13 Pro">
                 <h2>iPhone 13 Pro</h2>
                 <div class="price">Цена: $999</div>
-                <a class="order-button" href="https://t.me/your_bot?start=iphone13pro" target="_blank">Заказать в Telegram</a>
+                <a class="order-button" href="https://t.me/malecat1?start=iphone13pro" target="_blank">Заказать в Telegram</a>
             </div>
 
             <div class="product">
